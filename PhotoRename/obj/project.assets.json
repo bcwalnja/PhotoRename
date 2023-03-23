@@ -1,0 +1,129 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "ExifLib/1.7.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/ExifLib.dll": {}
+        },
+        "runtime": {
+          "lib/net45/ExifLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExifLib/1.7.0": {
+      "sha512": "E+Ca3FPt0ylhmbRQqSB3DtV9v8a/cC5HRPs261jxbBxMGmWuoBMfsQVv+Qp/jLxngaHE3mhNhx0Ev998hVDwPA==",
+      "type": "package",
+      "path": "exiflib/1.7.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "NuGet.exe",
+        "exiflib.1.7.0.nupkg.sha512",
+        "exiflib.nuspec",
+        "lib/net20/ExifLib.dll",
+        "lib/net40/ExifLib.dll",
+        "lib/net45/ExifLib.dll",
+        "lib/portable-win81+wpa81/ExifLib.dll",
+        "lib/portable-win81+wpa81/ExifLib.pri",
+        "lib/portable-windows8+net45/ExifLib.dll",
+        "lib/portable-windows8+net45/ExifLib.pri",
+        "lib/sl3-wp/ExifLib.dll",
+        "lib/sl3/ExifLib.dll",
+        "lib/sl4/ExifLib.dll",
+        "lib/sl5/ExifLib.dll",
+        "lib/windowsphone8/ExifLib.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "ExifLib >= 1.7.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\nathaniel\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Code\\PhotoRename\\PhotoRename\\PhotoRename.csproj",
+      "projectName": "PhotoRename",
+      "projectPath": "C:\\Code\\PhotoRename\\PhotoRename\\PhotoRename.csproj",
+      "packagesPath": "C:\\Users\\nathaniel\\.nuget\\packages\\",
+      "outputPath": "C:\\Code\\PhotoRename\\PhotoRename\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\nathaniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "ExifLib": {
+            "target": "Package",
+            "version": "[1.7.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ExifLib 1.7.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "ExifLib",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

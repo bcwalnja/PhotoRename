@@ -1,0 +1,17 @@
+C:\Code\PhotoRename\PhotoRename\bin\Debug\net6.0\PhotoRename.exe
+C:\Code\PhotoRename\PhotoRename\bin\Debug\net6.0\PhotoRename.deps.json
+C:\Code\PhotoRename\PhotoRename\bin\Debug\net6.0\PhotoRename.runtimeconfig.json
+C:\Code\PhotoRename\PhotoRename\bin\Debug\net6.0\PhotoRename.dll
+C:\Code\PhotoRename\PhotoRename\bin\Debug\net6.0\PhotoRename.pdb
+C:\Code\PhotoRename\PhotoRename\obj\Debug\net6.0\PhotoRename.csproj.AssemblyReference.cache
+C:\Code\PhotoRename\PhotoRename\obj\Debug\net6.0\PhotoRename.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\PhotoRename\PhotoRename\obj\Debug\net6.0\PhotoRename.AssemblyInfoInputs.cache
+C:\Code\PhotoRename\PhotoRename\obj\Debug\net6.0\PhotoRename.AssemblyInfo.cs
+C:\Code\PhotoRename\PhotoRename\obj\Debug\net6.0\PhotoRename.csproj.CoreCompileInputs.cache
+C:\Code\PhotoRename\PhotoRename\obj\Debug\net6.0\PhotoRename.dll
+C:\Code\PhotoRename\PhotoRename\obj\Debug\net6.0\refint\PhotoRename.dll
+C:\Code\PhotoRename\PhotoRename\obj\Debug\net6.0\PhotoRename.pdb
+C:\Code\PhotoRename\PhotoRename\obj\Debug\net6.0\PhotoRename.genruntimeconfig.cache
+C:\Code\PhotoRename\PhotoRename\obj\Debug\net6.0\ref\PhotoRename.dll
+C:\Code\PhotoRename\PhotoRename\bin\Debug\net6.0\ExifLib.dll
+C:\Code\PhotoRename\PhotoRename\obj\Debug\net6.0\PhotoRename.csproj.CopyComplete
